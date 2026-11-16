@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097961113250",
+    "project_id": "geocheck-campus",
+    "storage_bucket": "geocheck-campus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097961113250:android:3e627374cac2c7a766b9fb",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_asistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBglrPmBKvN7aesGaG1z-5FUhGj_HQJuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
